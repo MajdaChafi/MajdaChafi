@@ -1,23 +1,37 @@
 # Hi, I'm Majda 👋
 
-### Self-Taught Developer | Paris, France 🇫🇷
+### Aspiring Front-End Developer | Paris, France 🇫🇷
 
-I'm a self-taught developer passionate about technology,
-problem-solving, and learning by building real projects.
+I'm a self-taught developer learning by building projects and experimenting with web technologies.
 
-- 🌱 Currently developing my programming skills
-- 💻 Learning by creating and experimenting
-- 🚀 Exploring new technologies
-- 🎯 Focused on continuous learning and growth
+I enjoy turning ideas into responsive, user-friendly websites and continuously improving my skills.
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
-Currently learning and expanding my technical skills.
+- HTML5 — Fundamentals
+- CSS3 — Styling and responsive layouts
+- JavaScript — Basic knowledge
+- Git & GitHub — Learning and practicing
 
-## 📂 Projects
+### 🚀 Featured Projects
 
-More projects coming soon!
+**[Azul Clinic](https://github.com/MajdaChafi/azul-clinic)**  
+A responsive hospital website built as a web development project.
 
-## 📫 Connect with me
+**[Diabetes-Pharma](https://github.com/MajdaChafi/Diabetes-Pharma)**  
+A project focused on diabetes pharmacology.
 
-- GitHub: [@MajdaChafi](https://github.com/MajdaChafi)
+### 🌱 Currently Learning
+
+- Improving my HTML and CSS skills
+- Practicing JavaScript fundamentals
+- Building better responsive websites
+- Learning through hands-on projects
+
+### 🎯 My Goal
+
+To grow as a front-end developer by building useful projects and learning something new every day.
+
+### 📫 Connect with me
+
+[GitHub](https://github.com/MajdaChafi)
