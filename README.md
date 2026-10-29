@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Majda 👋
 
-<!--
-**MajdaChafi/MajdaChafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Self-Taught Developer | Paris, France 🇫🇷
 
-Here are some ideas to get you started:
+I'm a self-taught developer passionate about technology,
+problem-solving, and learning by building real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently developing my programming skills
+- 💻 Learning by creating and experimenting
+- 🚀 Exploring new technologies
+- 🎯 Focused on continuous learning and growth
+
+## 🛠️ Skills & Technologies
+
+Currently learning and expanding my technical skills.
+
+## 📂 Projects
+
+More projects coming soon!
+
+## 📫 Connect with me
+
+- GitHub: [@MajdaChafi](https://github.com/MajdaChafi)
